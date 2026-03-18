@@ -1,0 +1,24 @@
+metadata:
+  favicon: ''
+  title: Furniture Cost Calculator
+  description: ''
+  breakpoints: []
+  rendererCachingEnabled: true
+  skipDepsComparisonInCompilerCache: false
+  vibeAppPhase: impl
+  vibeAppAutoApplyMigrations: true
+  vibeAppConnectedDatasources: []
+  vibeAppPrimaryHostedDatasourceId: null
+  vibeAppToolPermissions:
+    takeScreenshot:
+      decision: alwaysApproved
+      updatedAt: '2026-03-17T20:05:53.769Z'
+appSettings:
+  properties:
+    defaultData: '{}'
+  actions: {}
+  gridVersion: 2
+  density: compact
+  hideRenderCachingSettings: false
+internalType: vibe_project
+id: p3aExgSj3e
